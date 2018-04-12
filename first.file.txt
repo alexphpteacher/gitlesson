@@ -21,7 +21,7 @@ line yet
 
 line N-3
 line N-2
-Line N-1
-Line N
+line N-1
+line N
 
 END.
