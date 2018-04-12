@@ -20,7 +20,7 @@ line yet
 line yet
 
 line N-3
-Line N-2
+line N-2
 Line N-1
 Line N
 
